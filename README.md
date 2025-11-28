@@ -1,4 +1,4 @@
-# Katherine Stanton's Capstone review for the AAS in AI at Houston City College
+# Katherine Stanton's Capstone review for the AAS in AI at Houston City College 🧑‍🎓
 
 This repository serves as a review of the work completed towards my degree. Each section will review course work for AI-related classes and contain assignment notes and links to important resources used.
 
@@ -19,3 +19,5 @@ This repository serves as a review of the work completed towards my degree. Each
 ### Remaining Courses (Spring 2026):
 - Data Science in AI
 - Deep Learning in AI
+
+![HCC logo](https://github.com/user-attachments/assets/db439313-c55c-4c0f-8618-61616a4e79b2)
