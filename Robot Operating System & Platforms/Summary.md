@@ -1,6 +1,6 @@
 ### Summary:
 With Computer Vision and UNIX OS as our foundation, **Robot Operating System & Platforms** gave us an introduction to working with 
-robots, sensors, cameras, and micro computers like Raspberry Pi and Nvidia's Jetson Nano. 
+robots, sensors, cameras, and in person exposure to micro computers like Raspberry Pi and Nvidia's Jetson Nano. 
 
 ### Resources:
 [ROS - Robot Operating System](https://www.ros.org/)
